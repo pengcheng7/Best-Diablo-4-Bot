@@ -3,4 +3,4 @@
 3 For usage issues, please check the URL： https://faq.abbcc.xyz/d4_en/ ,
    Video Usage Tutorial URL： https://www.youtube.com/watch?v=cbBFUbUKKAg
 4 It is best to update the software every day, as this software will be updated every day. If it is not updated for a long time, it may not be usable.
-(https://github.com/pengcheng7/cnnc/blob/main/d4_01.jpg)
+![d4_01](https://github.com/pengcheng7/cnnc/blob/main/d4_01.jpg)
